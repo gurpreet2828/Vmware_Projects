@@ -1,5 +1,10 @@
 # HA and DRS
 
 <br>**HA**: High Availability</br>
-**DRS**: Distributed Resource Scheduler
+<br>**DRS**: Distributed Resource Scheduler</br>
+
+### Cluster
+VMware, a cluster is a group of physical servers, or hosts, that share resources and work together under one IP address. The cluster manages the resources of all the hosts within it
+
+
 
