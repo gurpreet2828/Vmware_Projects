@@ -22,6 +22,18 @@ You will see as following image
 
 Add a  host by right clicking on datacenter
 
-<br>Go step by step and fill the details</br> 
+<br>Go step by step and fill the details as shown bellow in the image </br> 
+
+![Picture5](https://github.com/gurpreet2828/VmwareProject_Images/blob/57c69573af21a4d165fce9f72523396fb4cbdad0/Picture5.png)
+
+You will see the following details after adding all the details of ESXI -Host
+
+![Picture6](https://github.com/gurpreet2828/VmwareProject_Images/blob/88613275bbc34a1796038fa895a740a9a01501a8/Picture6.png)
+
+After adding ESXI-HOST you will see the ESXI-host under datacenter as Shown in following image
+
+![Picture7](https://github.com/gurpreet2828/VmwareProject_Images/blob/88613275bbc34a1796038fa895a740a9a01501a8/Picture7.png)
+
+## Adding ESXI-HOST to vCenter Server Completed
 
 </p>
