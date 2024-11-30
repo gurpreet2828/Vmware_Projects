@@ -20,4 +20,8 @@ You will see as following image
 
 ![Picture4](https://github.com/gurpreet2828/VmwareProject_Images/blob/dc70a7613bd6f310426f065c8f1a7ae74b604d60/Picture4.png)
 
+Add a  host by right clicking on datacenter
+
+<br>Go step by step and fill the details</br> 
+
 </p>
