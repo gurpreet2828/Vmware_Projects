@@ -1,4 +1,4 @@
-# Shared storage through ISCSI
+# Shared storage through ISCSI to ESXI Host
 
 **Step 1: First create a shared storage in server 2016 and connect through esxi host and shared with computer (client)**
 
