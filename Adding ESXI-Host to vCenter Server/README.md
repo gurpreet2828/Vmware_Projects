@@ -11,4 +11,7 @@ Than right click on Domain Name of vCenter as bellow and create folder of depart
 
 ![Picture2](https://github.com/gurpreet2828/VmwareProject_Images/blob/165b41c8accb8e847350d636ae514bd85d1edc71/Picture2.png)
 
+After creating the folder as name of department you will see following screen
+
+![Picture3](https://github.com/gurpreet2828/VmwareProject_Images/blob/dc70a7613bd6f310426f065c8f1a7ae74b604d60/Picture3.png)
 </p>
