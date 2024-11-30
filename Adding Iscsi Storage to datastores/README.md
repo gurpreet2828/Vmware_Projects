@@ -3,8 +3,8 @@
 **Step 1**
 Go to vcenter Server  - Storage  - Right click on datacenter – storage – new datastore
 
-1. <br>Select VMFS</br>
-2. <br>Enter the Datastore Name</br>
-3. <br>Select host from drop down</br>
+1. Select VMFS
+2. Enter the Datastore Name
+3. Select host from drop down
 
 
