@@ -22,7 +22,8 @@ Step 3: **So to change the information you have to go to run and need to run the
 ![Picture10](https://github.com/gurpreet2828/VmwareProject_Images/blob/ae5d556a01908081e2e4630c0b6493667a07af9a/Picture10.png)
 
 **Very Important last step**
-*After running sysprep it open the folder than click on sysprep and install it created new machine with different information from VM who’s cloned is make*
+
+<br>*After running sysprep it open the folder than click on sysprep and install it created new machine with different information from VM who’s cloned is make*</br>
 
 <br> As shown in following image </br>
 
