@@ -6,10 +6,14 @@
 
 <br> **You will see the following screen** </br>
 
-![Picture](https://github.com/gurpreet2828/VmwareProject_Images/blob/19b4bd4af45b0f024426d49fada0c95e5713732e/Picture12.png)
+![Picture12](https://github.com/gurpreet2828/VmwareProject_Images/blob/19b4bd4af45b0f024426d49fada0c95e5713732e/Picture12.png)
 
 Click on Join AD
 
 Fill the details of your Domain Controller
+
+***After filling details of your Domain controller, ESXI Host connected to Domain and you will see the following screen after the joining domain***
+
+![Picture13](https://github.com/gurpreet2828/VmwareProject_Images/blob/5ae03373985bddd7587f97e2adeed45c1dc1409d/Picture13.png)
 
 ## Domain joined Completed
