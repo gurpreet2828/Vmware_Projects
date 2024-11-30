@@ -2,8 +2,8 @@
 
 **Step 1**
 Go to vcenter Server  - Storage  - Right click on datacenter – storage – new datastore
-Select VMFS
-Enter the Datastore Name
-Select host from drop down
+<br>Select VMFS</br>
+<br>Enter the Datastore Name</br>
+<br>Select host from drop down</br>
 
 
