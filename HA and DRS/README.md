@@ -1,4 +1,5 @@
 # HA and DRS
-HA: High Availability
-DRS: Distributed Resource Scheduler
+
+<br>**HA**: High Availability</br>
+**DRS**: Distributed Resource Scheduler
 
