@@ -11,9 +11,13 @@ Go to vcenter Server  - Storage  - Right click on datacenter – storage – new
 **Step 3**
 Select NFS  - NFS 4.1
 Click Next
+
 **Name:** enter the required name of storage
+
 **NFS Server:** Ip address of the server OR Server Name
+
 **NFS Share:** path of the shared folder which created on server (Example - C:\Softwares…….)
+
 Next – select don’t use kerboes authentication – next – select host
 
 
