@@ -33,3 +33,6 @@ You will find the status connected in share-storage server as seen bellow
 ## Completed: Adding iscsi shared storage to ESXI Host
 
 
+
+
+
