@@ -5,7 +5,7 @@ After login you will see the following screen
   
 ![Picture1](https://github.com/gurpreet2828/VmwareProject_Images/blob/aa992f0ffd5052470c41f9d43ac337c2f0389d84/Picture1.png)
 
-In an Organisation, you have multiple departments like HR, Software and Administration
+**Step 2:** In an Organisation, you have multiple departments like HR, Software and Administration
 <br>In this case you have to go to Host and cluster</br>
 Than right click on Domain Name of vCenter as bellow and create folder of department like HR
 
@@ -15,7 +15,7 @@ After creating the folder as name of department you will see following screen
 
 ![Picture3](https://github.com/gurpreet2828/VmwareProject_Images/blob/dc70a7613bd6f310426f065c8f1a7ae74b604d60/Picture3.png)
 
-Create a new datacenter by right clicking at folder name of department
+**Step 3: Create a new datacenter by right clicking at folder name of department**
 You will see as following image
 
 ![Picture4](https://github.com/gurpreet2828/VmwareProject_Images/blob/dc70a7613bd6f310426f065c8f1a7ae74b604d60/Picture4.png)
