@@ -1,5 +1,5 @@
 # Adding ESXI-HOST to vCenter Server
-<ins>**Step 1: Login to vCenter Server through IP address on web Browser**</ins>
+<u>**Step 1: Login to vCenter Server through IP address on web Browser**</u>
 <p>
 After login you will see the following screen
   
